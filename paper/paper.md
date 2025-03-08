@@ -17,7 +17,7 @@ biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.or
 biohackathon_location: "Europe, 2024-2025"
 group: Workshop 3
 # URL to project git repo --- should contain the actual paper.md:
-git_url: [https://github.com/biohackrxiv/publication-template](https://github.com/BiGCAT-UM/INTOXICOM_Workshop_3/)
+git_url: https://github.com/BiGCAT-UM/INTOXICOM_Workshop_3/
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Martens \emph{et al.}
