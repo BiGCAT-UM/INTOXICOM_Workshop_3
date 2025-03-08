@@ -1,25 +1,23 @@
 ---
-title: 'INTOXICOM Workshop Report: Shedding the light on unknown chemical substances'
-title_short: 'INTOXIOM #1: unknown chemical substances'
+title: 'INTOXICOM Workshop Report: xxx'
+title_short: 'INTOXIOM #3: xxx'
 tags:
-  - toxicology
-  - PubChem
-  - unknown chemical substances
+  - computational toxicology
 authors:
-  - name: Marvin Martens
+  - name: Ola Spjuth
     affiliation: 1
 affiliations:
-  - name: Dept of Bioinformatics - BiGCaT, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: Uppsala University, Sweden
     index: 1
-date: 7 November 2022
+date: 26 march 2025
 cito-bibliography: paper.bib
 event: INTOXICOM
 biohackathon_name: "INTOXICOM Workshops"
 biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community)"
 biohackathon_location: "Europe, 2024-2025"
-group: Workshop 1
+group: Workshop 3
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: [https://github.com/biohackrxiv/publication-template](https://github.com/BiGCAT-UM/INTOXICOM_Workshop_3/)
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Martens \emph{et al.}
